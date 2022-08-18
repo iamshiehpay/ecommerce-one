@@ -8,3 +8,7 @@
 ## Stripe JWT mongodb firbase ....
 
 ### 缺登出、後台完整、剩下功能正常
+
+
+----------
+刪除 api client .env
