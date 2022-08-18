@@ -1,4 +1,4 @@
-# E-Commerce Full stack
+# E-Commerce Full stack (電商網站)
 
 
 ## backend nodejs
